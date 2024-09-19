@@ -1,0 +1,167 @@
+Vishwambhar Sarsar
+
+
+sarsar.vishwambhar@gmail.com
+9561276108
+PUNE, INDIA'
+https://www.linkedin.com/in/ vishwambhar-sarsar-qa
+
+
+
+------------------------
+Sr. QA Engineer
+
+
+------------------------
+I am a Software QA engineer with  5 years of experience in Software Testing. Highly motivated and Enthusiastic for delivering quality product.
+
+
+Experience
+------------------------
+Senior QA Engineer.
+Crelio Health
+06/2022 - Present
+Pune,India
+Cloud-based Solution (saas) for Automating Medical Diagnostic Centres and Laboratories.
+key Job Role:-
+- Performed Hands on <b>manual  and Automation</b> testing. 
+- Hands-on experience on automation testing <b>Selenium Webdriver.</b> 
+- Experience with <b>Android and iOS Mobile Testing.</b> 
+- God understanding of Performance Testing Using <b>Jmeter.</b> 
+- Hands on Experience REST API Automation Using <b>POSTMAN -NEWMAN.</b> 
+- API Test Scripting with Javascript. 
+
+
+
+QA Engineer
+R P Business Solutions LLP
+05/2019 - 06/2022
+Pune,Maharashtra
+key Job Role:-
+- Knowledge of  <b> SDLC</b>   and Software Testing Life Cycle (  <b>STLC</b>  ). 
+- Understanding of defect tracking and test management software   <b>(JIRA).</b> 
+- Handled two Projects one from Investment banking domain and another from Telecom domain. 
+- Experience with   <b>Agile Scrum</b>   methodologies. 
+- Knowledge of handling   <b>Popups and List Box,screenshot.</b> 
+- Experience in   <b>Sanity Testing and Functional Testing, end-to-end application testing.</b> 
+
+
+
+
+
+
+Skills
+------------------------
+-Agile
+-Scrum
+-JAVA+Selenium
+-SQL
+-SDLC
+-STLC
+-JIRA
+-SOAP UI
+-POSTMAN
+-Selenium Webdriver
+-DATABASE Testing
+-TestNG
+-POM
+-DDF
+-SQL
+-Jenkins
+-NEWMAN
+-REGRATION TESTING
+-Performance Testing
+-MAVEN
+-Mobile Testing
+-Jmeter
+-CI/CD
+-White box Testing
+-Communication skills
+
+
+
+Projects
+------------------------
+Crelio Health (Health care Domain).
+06/2022 - 12/2023
+- Understand the Business logic and Functional requirements to identify Test Scenarios. 
+- Understand the functionality of a feature release and test feature with different impact areas. 
+- Perform API testing by understanding API documentation. 
+- Confirming the issues from support and QA after fixing by Dev team. 
+
+
+Synlabs (Collection Technician Android App)
+01/2024 - Present
+- Performed Mobile testing. 
+- Functional testing and Non functional testing. 
+- Understanding client Requirements and perform testing accordingly. 
+
+
+BLUIIQ (Investment Banking domain)
+05/2019 - 12/2022
+- BLUEIQ helps businesses in digital economy frustrated with billing, Aggregate data to Automate Process. 
+- Analyze customer requirement. 
+- Managing defect evaluation/ resolution process. 
+
+
+
+
+
+Education
+------------------------
+M.Tech. (Electronics Design & Technology)
+National Institute of Electronics & Information Technology.
+07/2010 - 06/2012
+Ch.Sambhaji Nagar (Aurangabad,)Maharashtra
+Courses
+
+
+B.E. (Electronics and Telecommunication)
+M.G.M's College of Engineering,Nanded
+06/2005 - 06/2009
+Courses
+
+
+
+
+
+Achievements
+------------------------
+Acceptance of Admission at HOCHSCHULE BREMEN,University of applied science.
+Spring 2010
+
+
+IELTS (International English Language Testing system)
+Overall Band score 6.0 (Competent User)  Nov 2009
+
+
+
+
+
+Courses
+------------------------
+POSTMAN -The complete guide REST API Testing
+Udemy
+- https://www.udemy.com/certificate/UC-dc75d67c-3d95-4190-aac9-531e2b674d9f/ 
+
+
+Learn Jmeter from Scratch On live app
+Udemy
+- https://www.udemy.com/certificate/UC-e31e5e46-3710-4b1c-91a4-6b2b505ad9df/ 
+
+
+Business Analysis Fundamentals -ECBA,CCBA CBAP
+Udyme
+- https://www.udemy.com/certificate/UC-8d6751e6-8309-4489-a538-dcb9122b894b/ 
+
+
+
+
+
+Interests
+------------------------
+-Singing
+-Fitness
+
+
+
